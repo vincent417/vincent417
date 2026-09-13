@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 # Vincent Kofi Agbemator
 
-**Biomedical Scientist | Haematology & Transfusion Medicine | Infectious Diseases | Bioinformatics**
+**Biomedical Scientist | Haematology & Transfusion Medicine | Molecular and Cellular Immunology |
+ Infectious Diseases | Bioinformatics**
 
 I am a biomedical scientist working at the intersection of immunology and infectious
 diseases, with a particular interest in the molecular basis of durable protective
@@ -24,7 +25,7 @@ immunity: why protective responses persist in some hosts and fail in others.
 
 I head the Blood Bank and Immunology Unit at the University of Ghana Medical Centre and
 teach haematology and immunology at Radford University College. My laboratory background
-is in diagnostics and molecular biology — serology, PCR and RT-qPCR, flow cytometry —
+is in diagnostics and molecular biology, serology, PCR and RT-qPCR, flow cytometry, 
 and I am building toward computational immunology.
 
 ## What is here
@@ -37,7 +38,7 @@ data. This is work in progress rather than a portfolio.
 
 - Long-lived plasma cells and the durability of antibody-mediated protection
 - Host genetic variation in immune responses to infection and vaccination
-- Host–pathogen interactions in helminth- and infection-endemic populations
+- Host–pathogen interactions in helminth and infection endemic populations
 
 ## Laboratory background
 
