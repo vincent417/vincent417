@@ -16,49 +16,51 @@ Here are some ideas to get you started:
 -->
 # Vincent Kofi Agbemator
 
-Biomedical Scientist | Haematology & Transfusion Medicine | Biomedical Research | Infectious Diseases | Bioinformatics | R Programming | Host-Pathogen Interactions| Molecular Genetics and Genomics| Molecular and Cellular Immunology
+**Biomedical Scientist | Haematology & Transfusion Medicine | Infectious Diseases | Bioinformatics**
 
-I am a biomedical scientist with research interests in immunology,
-infectious diseases, host–pathogen interactions, and the molecular
-basis of durable protective immunity.
+I am a biomedical scientist working at the intersection of immunology and infectious
+diseases, with a particular interest in the molecular basis of durable protective
+immunity: why protective responses persist in some hosts and fail in others.
 
-## Research Interests
-- Host–pathogen interactions
-- Immunology and infectious diseases
-- Long-lived plasma cells and antibody durability
-- Anaemia and cardiometabolic disease
-- Translational biomedical research
+I head the Blood Bank and Immunology Unit at the University of Ghana Medical Centre and
+teach haematology and immunology at Radford University College. My laboratory background
+is in diagnostics and molecular biology — serology, PCR and RT-qPCR, flow cytometry —
+and I am building toward computational immunology.
 
-## Research & Data Skills
-- R / RStudio
-- Data cleaning and exploratory data analysis
-- Statistical analysis
-- ggplot2 / dplyr / tidyr
-- R Markdown
-- PCR / qPCR
-- ELISA
-- Flow cytometry
-- Haematology and transfusion science
+## What is here
 
-## Selected Research Projects
+Reanalyses of public immunology datasets, written up so that the code and the reasoning
+can both be checked. Building reproducible RNA-seq workflows using publicly available
+data. This is work in progress rather than a portfolio.
 
-### MPhil Thesis
-**Association between Anaemia and Cardiometabolic Diseases among
-elderly in Wa Municipality**
+## Research interests
 
-Case-control study of 90 older adults involving haematological,
-biochemical, and immunoassay data.
+- Long-lived plasma cells and the durability of antibody-mediated protection
+- Host genetic variation in immune responses to infection and vaccination
+- Host–pathogen interactions in helminth- and infection-endemic populations
 
-### R & Biomedical Data Analysis
-Reproducible analyses and visualizations of biomedical datasets
-using R.
+## Laboratory background
 
-## Current Research Interests
-My current interests focus on understanding the biological mechanisms
-underlying durable protective immunity, including long-lived plasma
-cells, antibody responses, and host genetic variation.
+**Molecular biology** — DNA/RNA extraction · PCR · RT-qPCR · gel electrophoresis · GeneXpert · primer design
 
-## Connect
-- LinkedIn: ...
-- ORCID: ...
-- Email: ...
+**Immunology and cell biology** — ELISA · chemiluminescent immunoassays · flow cytometry and gating in FlowJo · PBMC isolation and processing
+
+**Data analysis** — R/RStudio · ggplot2 · SPSS · KoboToolbox
+
+## Research
+
+**MPhil thesis** — Association between anaemia and cardiometabolic disease among older
+adults in the Wa Municipality. Case-control study of 90 participants combining
+haematological, biochemical, and immunoassay measurements. Manuscript under review.
+
+## Background
+
+- MPhil in Haematology, KNUST
+- BSc in Medical Laboratory Technology, University of Cape Coast
+- Senior Residency Fellow-in-Training, WAPCMLS
+- Registered Biomedical Scientist (HCPC, UK)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/leo-vincent-agbemator)
+- Email: vagbemator21@gmail.com
